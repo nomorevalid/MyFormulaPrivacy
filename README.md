@@ -1,2 +1,2 @@
-# MyNotes.github.io
+# MyFormula.github.io
 Project website
