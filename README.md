@@ -1,2 +1,1 @@
-# MyFormula.github.io
-Project website
+# MyFormulaPrivacy
